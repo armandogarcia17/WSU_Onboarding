@@ -14,6 +14,6 @@
 - Ex_simpledcmotor_SL is the Simulink model
 - Ex_simpledcmotor_SS is the Simscape model
 - properties.mat contains the values used to parametrize the model blocks
-All files related to the bicopter demo can be found on this website: insert link to highspot
+/All files related to the bicopter demo can be found on this website: insert link to highspot
 
 #### Contact Armando Garcia @ agarcian@mathworks.com with questions
