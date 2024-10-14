@@ -10,7 +10,7 @@
 - VirtualSensorModel.pdf and VirtualSensorModel.html are examples of shareable reports created from VirtualSensorModel.mlx
 - Use the VirtualSensorEmpty.mlx to practice the steps!
 
-### Navigate to the Modeling_and_Simulation_with_Simulink_and_Simscape folder to access the DC motor models reviewed during the seminar
+### Navigate to the Model_and_Simulate_with_Simulink_and_Simscape folder to access the DC motor models reviewed during the seminar
 - Ex_simpledcmotor_SL is the Simulink model
 - Ex_simpledcmotor_SS is the Simscape model
 - properties.mat contains the values used to parametrize the model blocks
